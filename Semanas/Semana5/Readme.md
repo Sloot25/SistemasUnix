@@ -5,8 +5,18 @@
 
 * La práctica no se realizo correctamente debido a que en los 3 intentos me marcó que la memoria no era suficiente, incluso con la partición con 140GB.
 
+Instalamos los paquetes necesarios de tal forma que 
+ apt install build-essential libncurses-dev bison flex libssl-dev libelf-
+dev bc dwarves -y
 ![Kernel](Imgs/Img_1.png)
 ![Kernel](Imgs/Img_2.png)
+
+Descargamos el código fuente del kernel linux para debian12. Usaremos el link:
+
+
+[kernel](https://mirrors.edge.kernel.org/pub/linux/kernel/v6.x/linux-6.11.3.tar.gz)
+
+
 ![Kernel](Imgs/Img_3.png)
 ![Kernel](Imgs/Img_4.png)
 ![Kernel](Imgs/Img_5.png)
