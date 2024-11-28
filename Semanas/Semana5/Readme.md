@@ -13,9 +13,9 @@ dev bc dwarves -y
 
 Descargamos el código fuente del kernel linux para debian12. Usaremos el link:
 
-
 [kernel](https://mirrors.edge.kernel.org/pub/linux/kernel/v6.x/linux-6.11.3.tar.gz)
-
+Extramos los archivos descargados
+Copiamos la configuración de nuestro kernel actual e iniciamos la configuración del nuevo kernel
 
 ![Kernel](Imgs/Img_3.png)
 ![Kernel](Imgs/Img_4.png)
@@ -24,19 +24,20 @@ Descargamos el código fuente del kernel linux para debian12. Usaremos el link:
 ![Kernel](Imgs/Img_7.png)
 ![Kernel](Imgs/Img_8.png)
 ![Kernel](Imgs/Img_9.png)
+
+Compilamos nuestro kernel con todos los nucleos disponibles usando make -j $(nproc)
+
 ![Kernel](Imgs/Img_10.png)
 ![Kernel](Imgs/Img_11.png)
 ![Kernel](Imgs/Img_12.png)
 ![Kernel](Imgs/Img_13.png)
 ![Kernel](Imgs/Img_14.png)
+
+Instalamos los modulos usando make modules_install
+
 ![Kernel](Imgs/Img_15.png)
 ![Kernel](Imgs/Img_16.png)
 ![Kernel](Imgs/Img_17.png)
 ![Kernel](Imgs/Img_18.png)
 ![Kernel](Imgs/Img_19.png)
-![Kernel](Imgs/Img_20.png)
-![Kernel](Imgs/Img_21.png)
-![Kernel](Imgs/Img_22.png)
-![Kernel](Imgs/Img_23.png)
-![Kernel](Imgs/Img_24.png)
-![Kernel](Imgs/Img_25.png)
+
