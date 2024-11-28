@@ -31,13 +31,16 @@ Compilamos nuestro kernel con todos los nucleos disponibles usando make -j $(npr
 ![Kernel](Imgs/Img_11.png)
 ![Kernel](Imgs/Img_12.png)
 ![Kernel](Imgs/Img_13.png)
-![Kernel](Imgs/Img_14.png)
 
 Instalamos los modulos usando make modules_install
+
+![Kernel](Imgs/Img_14.png)
+
+Instalamos el kernel 
 
 ![Kernel](Imgs/Img_15.png)
 ![Kernel](Imgs/Img_16.png)
 ![Kernel](Imgs/Img_17.png)
 ![Kernel](Imgs/Img_18.png)
-![Kernel](Imgs/Img_19.png)
 
+Despues de varios intentos nos quedamos con que el espacio no es suficiente para la instalación del Kernel a pesar de que la partición tenga espacio suficiente 
