@@ -31,6 +31,9 @@ Siguiendo los pasos para la instalación
 ![Instalación](Imgs/Img_9.png)
 ![Instalación](Imgs/Img_10.png)
 ![Instalación](Imgs/Img_11.png)
+
+Selecciona el idioma de tu teclado
+
 ![Instalación](Imgs/Img_12.png)
 ![Instalación](Imgs/Img_16.png)
 ![Instalación](Imgs/Img_17.png)
@@ -62,3 +65,14 @@ Siguiendo los pasos para la instalación
 ![Instalación](Imgs/Img_43.png)
 ![Instalación](Imgs/Img_45.png)
 ![Instalación](Imgs/Img_46.png)
+![Instalación](Imgs/Img_47.png)
+![Instalación](Imgs/Img_48.png)
+![Instalación](Imgs/Img_49.png)
+![Instalación](Imgs/Img_50.png)
+![Instalación](Imgs/Img_51.png)
+![Instalación](Imgs/Img_52.png)
+![Instalación](Imgs/Img_53.png)
+![Instalación](Imgs/Img_54.png)
+![Instalación](Imgs/Img_55.png)
+![Instalación](Imgs/Img_56.png)
+![Instalación](Imgs/Img_57.png)
