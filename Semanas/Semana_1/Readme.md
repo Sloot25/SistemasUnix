@@ -61,6 +61,11 @@ Selecciona el idioma de tu teclado
 ![Instalación](Imgs/Img_39.png)
 ![Instalación](Imgs/Img_40.png)
 ![Instalación](Imgs/Img_41.png)
+
+# Instalar Linux con LVM y particiones ad-hoc 
+
+La configuración de la maquina e instalación debe ser la misma hasta el momento en el que se eliga partición de disco. de esta manera:
+
 ![Instalación](Imgs/Img_42.png)
 ![Instalación](Imgs/Img_43.png)
 ![Instalación](Imgs/Img_45.png)
