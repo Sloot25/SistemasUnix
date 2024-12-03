@@ -1,3 +1,4 @@
+Vidal Aguilar Diego Jesus 
 # Practicas semanales 
 [Semana 1](https://github.com/Sloot25/SistemasUnix/tree/main/Semanas/Semana_1)
 
